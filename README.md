@@ -16,7 +16,7 @@ This project will explore how the Youtube creator and other viewers affect the p
 ### Channel Demographics
 ### Effect of Viewer Feedback
 
-## DATA BACKGROUND & PREVIEW
+## DATA BACKGROUND
 
 ### What data is available?
 * "Daily Record of the Top Trending Youtube Videos"
