@@ -33,15 +33,33 @@ WHY?
     * Does it change by viewer's geographical region?
 * What is "country''?
 
-### Manipulations
+## CONCLUSION 
 
-DF
-* Added tag_count column (which split the string in the tags column and added the individual elements)
-* Replaced existing publish date column with data type "object" with new one with data type "datetime"
-* Replaced existing trending date column with data type "object" with new one with data type "datetime"
-* Added publish day of the week column
-* Added trending day of the week column
-* Added Time Live and Days Live columns
+### REVIEW OF INITIAL QUESTIONS
 
-OTHERS
-* New dataframe called "channel_count" created for Multiple Trenders analysis
+WHAT? 
+* Is there a correlation between CONTENT properties inputted by the creator and trendability?
+    * YES!
+    * Category "Entertainment" is by far the most frequently used by trending videos
+    * The vast majority of videos (98%) are open to comments and ratings
+    * The following content suggestions are in line with most trending videos:
+        * Description length should be within 225 and 536 characters
+        * Tag count should be within 7 and 25 tags and should not be left blank (as every trending video had at least 1)
+* Is there a correlation between the creator's publishing TIMELINE and trendability?
+    * YES! 
+    * The vast majority of trending videos (85%) achieved trending within 3 days of being published with 56% within the day.
+    * Creators slightly favor weekdays over weekends to upload videos. 
+
+WHY?
+* For Creators, are there any opportunities and or suggested behavior to encourage trendability?
+    * YES! 
+    * A creator looking for trendability should use the upload content properties and timeline of past trending videos as a guideline.
+* For Youtube, is it worthwhile to spend additional resources on the Youtube Creator? Are there any suggested changes to the existing platform?
+    * YES!
+    * Creators are the lifeline of Youtube. It is important they have the tools to do well and are guided by Youtube. Any support in training and or product development from Youtube to the creators can positively contribute to the continued success and usage of the platform. 
+
+
+### WHAT IS NEXT FOR PROJECT?
+
+* Qualitative Analysis: Particularly on Tags and Description
+* Closer look at qualities provided for Multiple Trenders
