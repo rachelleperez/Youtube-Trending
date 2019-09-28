@@ -26,13 +26,6 @@ WHY?
 * No data on the viewers or path to arrive to video. 
 * Only 1 property of channel to be attributed to Youtube creator. More information on creator could lead to further insights.
 
-### Unsanswered Questions
-* What defines "trending"? 
-    * What is the metric? Assumption: Unknown internal measure (Top X videos by views / time_unit)
-    * Dynamic - Constantly changes throughout day (e.g. Jan 3 - 184, Jan 4 - 828, Jan 5 - 875).
-    * Does it change by viewer's geographical region?
-* What is "country''?
-
 ## CONCLUSION 
 
 ### REVIEW OF INITIAL QUESTIONS
