@@ -12,7 +12,7 @@ WHY?
 * For Creators, are there any opportunities and or suggested behavior to encourage trendability?
 * For Youtube, is it worthwhile to spend additional resources on the Youtube Creator? Are there any suggested changes to the existing platform?
 
-## DATA BACKGROUND & PREVIEW
+## DATA BACKGROUND
 
 ### What data is available?
 * Source: https://www.kaggle.com/datasnaek/youtube-new
