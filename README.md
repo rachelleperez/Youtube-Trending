@@ -52,7 +52,7 @@ WHY?
     * Creators are the lifeline of Youtube. It is important they have the tools to do well and are guided by Youtube. Any support in training and or product development from Youtube to the creators can positively contribute to the continued success and usage of the platform. 
 
 
-### WHAT IS NEXT FOR PROJECT?
+### WHAT ARE POTENTIAL NEXT STEPS FOR THIS PROJECT?
 
 * Qualitative Analysis: Particularly on Tags and Description
 * Closer look at qualities provided for Multiple Trenders
